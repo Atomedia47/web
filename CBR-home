@@ -1,6 +1,360 @@
-<html>
-  <video class="bannertop"
-         Src="bannertop.mp4"
-         </video>
-  
-         
+<body data-rsssl="1" class="home page-template-default page page-id-10 wp-custom-logo theme-customify woocommerce-js content main-layout-content sidebar_vertical_border site-full-width menu_sidebar_slide_overlay woocommerce later-wc-version elementor-default elementor-kit-6 elementor-page elementor-page-10 not-touch-screen e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="mobile">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><div id="page" class="site box-shadow">
+	<a class="skip-link screen-reader-text" href="#site-content">Skip to content</a>
+	<a class="close is-size-medium  close-panel close-sidebar-panel" href="#">
+        <span class="hamburger hamburger--squeeze is-active">
+            <span class="hamburger-box">
+              <span class="hamburger-inner"><span class="screen-reader-text">Menu</span></span>
+            </span>
+        </span>
+        <span class="screen-reader-text">Close</span>
+        </a><header id="masthead" class="site-header header-v2"><div id="masthead-inner" class="site-header-inner">							<div class="header-top header--row layout-full-contained" id="cb-row--header-top" data-row-id="top" data-show-on="desktop">
+								<div class="header--row-inner header-top-inner dark-mode">
+									<div class="customify-container">
+										<div class="customify-grid  cb-row--desktop hide-on-mobile hide-on-tablet customify-grid-middle"><div class="row-v2 row-v2-top no-left no-right"><div class="col-v2 col-v2-left"></div><div class="col-v2 col-v2-center"><div class="item--inner builder-item--html" data-section="header_html" data-item-id="html"><div class="builder-header-html-item item--html"><p>We are offering FREE reiki distant healing for the first 100 people who sign up!</p>
+</div></div></div><div class="col-v2 col-v2-right"></div></div></div>									</div>
+								</div>
+							</div>
+														<div class="header-main header--row layout-full-contained" id="cb-row--header-main" data-row-id="main" data-show-on="desktop mobile">
+								<div class="header--row-inner header-main-inner dark-mode">
+									<div class="customify-container">
+										<div class="customify-grid  cb-row--desktop hide-on-mobile hide-on-tablet customify-grid-middle"><div class="row-v2 row-v2-main no-left no-right"><div class="col-v2 col-v2-left"></div><div class="col-v2 col-v2-center"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo">		<div class="site-branding logo-top">
+						<a href="https://completebalancereiki.com/" class="logo-link" rel="home" itemprop="url">
+				<img class="site-img-logo" src="https://completebalancereiki.com/wp-content/uploads/2022/10/CompleteBlance-Website-Header-08.30.2022.png" alt="Complete Balance Reiki">
+							</a>
+					</div><!-- .site-branding -->
+		</div></div><div class="col-v2 col-v2-right"></div></div></div><div class="cb-row--mobile hide-on-desktop customify-grid customify-grid-middle"><div class="row-v2 row-v2-main no-left no-right"><div class="col-v2 col-v2-left"></div><div class="col-v2 col-v2-center"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo">		<div class="site-branding logo-top">
+						<a href="https://completebalancereiki.com/" class="logo-link" rel="home" itemprop="url">
+				<img class="site-img-logo" src="https://completebalancereiki.com/wp-content/uploads/2022/10/CompleteBlance-Website-Header-08.30.2022.png" alt="Complete Balance Reiki">
+							</a>
+					</div><!-- .site-branding -->
+		</div></div><div class="col-v2 col-v2-right"></div></div></div>									</div>
+								</div>
+							</div>
+														<div class="header-bottom header--row layout-full-contained" id="cb-row--header-bottom" data-row-id="bottom" data-show-on="desktop mobile">
+								<div class="header--row-inner header-bottom-inner dark-mode">
+									<div class="customify-container">
+										<div class="customify-grid  cb-row--desktop hide-on-mobile hide-on-tablet customify-grid-middle"><div class="row-v2 row-v2-bottom no-left"><div class="col-v2 col-v2-left"></div><div class="col-v2 col-v2-center"><div class="item--inner builder-item--primary-menu has_menu" data-section="header_menu_primary" data-item-id="primary-menu"><nav id="site-navigation-bottom-desktop" class="site-navigation primary-menu primary-menu-bottom nav-menu-desktop primary-menu-desktop style-plain"><ul id="menu-main-menu" class="primary-menu-ul menu nav-menu"><li id="menu-item--bottom-desktop-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10 current_page_item menu-item-22"><a href="https://completebalancereiki.com/" aria-current="page"><span class="link-before">Home</span></a></li>
+<li id="menu-item--bottom-desktop-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://completebalancereiki.com/services/"><span class="link-before">Services</span></a></li>
+<li id="menu-item--bottom-desktop-1935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1935"><a href="https://completebalancereiki.com/store/"><span class="link-before">Store</span></a></li>
+<li id="menu-item--bottom-desktop-690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-690"><a href="https://completebalancereiki.com/our-story/"><span class="link-before">Our Story</span></a></li>
+<li id="menu-item--bottom-desktop-1004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1004"><a href="https://completebalancereiki.com/history-of-reiki/"><span class="link-before">History of Reiki</span></a></li>
+<li id="menu-item--bottom-desktop-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="https://completebalancereiki.com/faqs/"><span class="link-before">FAQ’s</span></a></li>
+</ul></nav></div></div><div class="col-v2 col-v2-right"><div class="item--inner builder-item--search_icon" data-section="search_icon" data-item-id="search_icon"><div class="header-search_icon-item item--search_icon js-added search-right">		<a class="search-icon" href="#">
+			<span class="ic-search">
+				<svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+					<path fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+				</svg>
+			</span>
+			<span class="ic-close">
+				<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="612px" height="612px" viewBox="0 0 612 612" fill="currentColor" style="enable-background:new 0 0 612 612;" xml:space="preserve"><g><g id="cross"><g><polygon points="612,36.004 576.521,0.603 306,270.608 35.478,0.603 0,36.004 270.522,306.011 0,575.997 35.478,611.397 306,341.411 576.521,611.397 612,575.997 341.459,306.011 "></polygon></g></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
+			</span>
+			<span class="arrow-down"></span>
+		</a>
+		<div class="header-search-modal-wrapper">
+			<form role="search" class="header-search-modal header-search-form" action="https://completebalancereiki.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search ..." value="" name="s" title="Search for:">
+				</label>
+				<button type="submit" class="search-submit">
+					<svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+						<path fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+					</svg>
+				</button>
+			</form>
+		</div>
+		</div></div></div></div></div><div class="cb-row--mobile hide-on-desktop customify-grid customify-grid-middle"><div class="row-v2 row-v2-bottom no-left no-right"><div class="col-v2 col-v2-left"></div><div class="col-v2 col-v2-center"><div class="item--inner builder-item--nav-icon" data-section="header_menu_icon" data-item-id="nav-icon">		<a class="menu-mobile-toggle item-button is-size-desktop-large is-size-tablet-medium is-size-mobile-medium">
+			<span class="hamburger hamburger--squeeze">
+				<span class="hamburger-box">
+					<span class="hamburger-inner"></span>
+				</span>
+			</span>
+			<span class="nav-icon--label hide-on-tablet hide-on-mobile">Menu</span></a>
+		</div></div><div class="col-v2 col-v2-right"></div></div></div>									</div>
+								</div>
+							</div>
+							</div></header>	<div id="site-content" class="site-content">
+		<div class="customify-container">
+			<div class="customify-grid">
+				<main id="main" class="content-area customify-col-12">
+						<div class="content-inner">
+		<article id="post-10" class="post-10 page type-page status-publish hentry">
+	
+	<div class="entry-content">
+				<div data-elementor-type="wp-page" data-elementor-id="10" class="elementor elementor-10">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-f3519fb elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f3519fb" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}" style="width: 517px; left: -16px;">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e620c6d" data-id="e620c6d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4862516 elementor-widget elementor-widget-text-editor" data-id="4862516" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.1 - 14-08-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Distant Reiki Healing</p><p>NOW Offering Free Distant Reiki Healing</p><p>Sessions for the First 100 People who Sign-Up NOW!!</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-ef6fec7 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-text-editor" data-id="ef6fec7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-43a3947 elementor-align-center elementor-widget elementor-widget-button" data-id="43a3947" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://completebalancereiki.com/donate/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="far fa-arrow-alt-circle-right"></i>			</span>
+						<span class="elementor-button-text">Free Distant  Reiki Healing Session - Sign  Up NOW</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c15c991 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c15c991" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9588b07" data-id="9588b07" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9f81206 elementor-widget elementor-widget-spacer" data-id="9f81206" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.1 - 14-08-2022 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-container{--container-widget-width:100%}.e-container>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));-ms-flex-item-align:stretch;align-self:stretch;-ms-flex-negative:0;flex-shrink:0}.e-container>.elementor-widget-spacer>.elementor-widget-container,.e-container>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-container>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-58a0da2 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="58a0da2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 517px; left: -16px;">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c018b1d" data-id="c018b1d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-584a38b elementor-widget elementor-widget-heading" data-id="584a38b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.1 - 14-08-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h4 class="elementor-heading-title elementor-size-default">What is Reiki?<br></h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f386fa2 elementor-widget elementor-widget-text-editor" data-id="f386fa2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="color: #ffffff;"><em>Reiki is the Universal Life Force which connects and runs through all things in the Universe. Also known as Energy, Chi, Prana which gives life to all things.</em></span></p><p><span style="color: #ffffff;"><em>Reiki can be tapped into anytime, anywhere and&nbsp; anyplace. Giving us the ability to heal or transcend our Energy, to remove blocks in the Energy Center of&nbsp; know as the Charka’s.</em></span></p><p><span style="color: #ffffff;"><em>Traditional Reiki healing is performed with hands on, using a series of hand positions over the Energy Centers of the body.&nbsp; Reiki can also be performed distantly reaching anyone ready and open to receive it.</em></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4c7d5cc elementor-widget elementor-widget-spacer" data-id="4c7d5cc" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d7bc333 elementor-align-center elementor-widget elementor-widget-button" data-id="d7bc333" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://completebalancereiki.com/services/" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="far fa-arrow-alt-circle-right"></i>			</span>
+						<span class="elementor-button-text">Sign Up NOW!</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8f4c7a2" data-id="8f4c7a2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-de00d77 elementor-widget elementor-widget-heading" data-id="de00d77" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">How Can Reiki Help Me?<br></h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-65b27ef elementor-widget elementor-widget-text-editor" data-id="65b27ef" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="color: #ffffff;"><em>Energy, known as Reiki taps into the Universal Life Force. It transcends all time and space and works on healing the recipient on all levels, physical, mental, emotional, energetic, spiritual and nutritional. Effecting the recipient in the past, present and future.</em></span></p><p><span style="color: #ffffff;"><em>Reiki can help you&nbsp; heal from illness and emotional trauma, as well as provide relief from&nbsp; stress. Reiki can be sent into the future to aide us in accomplishing a task, or desired result.</em></span></p><p><span style="color: #ffffff;"><em>Reiki works by removing all the blocks we face in life by channeling Life Force Energy with the Intention of doing what is in the best interest of the recipient bu clearing the Energy Centers.<br></em></span></p><p><span style="color: #ffffff;"><em>&nbsp;</em></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5aeaf3d elementor-align-center elementor-widget elementor-widget-button" data-id="5aeaf3d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://completebalancereiki.com/services/" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="far fa-arrow-alt-circle-right"></i>			</span>
+						<span class="elementor-button-text">Sign Up NOW!</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ebc5a25" data-id="ebc5a25" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3888ec8 elementor-widget elementor-widget-heading" data-id="3888ec8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">How Does Distant Reiki Healing Work?</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5f02ba2 elementor-widget elementor-widget-text-editor" data-id="5f02ba2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="color: #ffffff;">The Reiki Master Sends Reiki Energy to the recipient who is open and ready to receive Reiki. A few minutes before the session the Reiki Master will set the intention for the session. The recipient should also set their&nbsp; Intention before the session begins.</span></p><p><span style="color: #ffffff;">Simply chose a time that you both agree on. The Distant Reiki Healing session typically lasts about 30 – 45 minutes.</span></p><p><span style="color: #ffffff;">Be Open and Ready to Receive Reiki Energy. Just sit quietly during this time and allow the Reiki Energy do all the work.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-67c2488 elementor-widget elementor-widget-spacer" data-id="67c2488" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1f6d587 elementor-align-center elementor-widget elementor-widget-button" data-id="1f6d587" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://completebalancereiki.com/services/" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="far fa-arrow-alt-circle-right"></i>			</span>
+						<span class="elementor-button-text">Sign Up NOW!</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e5f397a elementor-widget elementor-widget-spacer" data-id="e5f397a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-888ed19 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="888ed19" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-27d2bb8" data-id="27d2bb8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7aabc36 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="7aabc36" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;play_on_mobile&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.1 - 14-08-2022 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;-webkit-transform:translateZ(0);transform:translateZ(0)}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-container>.elementor-widget-video{width:var(--container-widget-width,100%)}</style>		<div class="e-hosted-video elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://completebalancereiki.com/wp-content/uploads/2023/01/MikeShawReiki-4.mp3" autoplay="" loop="" playsinline="" controlslist="nodownload"></video>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-28d3d55 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="28d3d55" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 517px; left: -16px;">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b5f8c15" data-id="b5f8c15" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-37e1890 elementor-widget elementor-widget-image" data-id="37e1890" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.1 - 14-08-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>									<figure class="wp-caption">
+											<a href="https://completebalancereiki.com/product/5-principals-of-reiki-sticker/" target="_blank">
+							<img decoding="async" width="843" height="562" src="https://completebalancereiki.com/wp-content/uploads/2022/03/Space-budha-5-Pricipals-of-Reiki.png-02.21.2022-1024x683.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://completebalancereiki.com/wp-content/uploads/2022/03/Space-budha-5-Pricipals-of-Reiki.png-02.21.2022-1024x683.png 1024w, https://completebalancereiki.com/wp-content/uploads/2022/03/Space-budha-5-Pricipals-of-Reiki.png-02.21.2022-600x400.png 600w, https://completebalancereiki.com/wp-content/uploads/2022/03/Space-budha-5-Pricipals-of-Reiki.png-02.21.2022-300x200.png 300w, https://completebalancereiki.com/wp-content/uploads/2022/03/Space-budha-5-Pricipals-of-Reiki.png-02.21.2022-768x512.png 768w, https://completebalancereiki.com/wp-content/uploads/2022/03/Space-budha-5-Pricipals-of-Reiki.png-02.21.2022-1536x1024.png 1536w, https://completebalancereiki.com/wp-content/uploads/2022/03/Space-budha-5-Pricipals-of-Reiki.png-02.21.2022-2048x1365.png 2048w" sizes="(max-width: 843px) 100vw, 843px">								</a>
+											<figcaption class="widget-image-caption wp-caption-text"></figcaption>
+										</figure>
+									</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-df3e8db elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="df3e8db" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-105e789" data-id="105e789" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+			</div><!-- .entry-content -->
+
+</article><!-- #post-10 -->
+	</div><!-- #.content-inner -->
+              			</main><!-- #main -->
+					</div><!-- #.customify-grid -->
+	</div><!-- #.customify-container -->
+</div><!-- #content -->
+<footer class="site-footer" id="site-footer">							<div class="footer-bottom footer--row layout-full-contained" id="cb-row--footer-bottom" data-row-id="bottom" data-show-on="desktop">
+								<div class="footer--row-inner footer-bottom-inner dark-mode">
+									<div class="customify-container">
+										<div class="customify-grid  customify-grid-top"><div class="customify-col-9_md-9_sm-12_xs-12 builder-item builder-first--footer_copyright" data-push-left="off-3 _sm-0"><div class="item--inner builder-item--footer_copyright" data-section="footer_copyright" data-item-id="footer_copyright"><div class="builder-footer-copyright-item footer-copyright"><p>Copyright © 2023 Complete Balance Reiki. All rights reserved. </p>
+</div></div></div></div>									</div>
+								</div>
+							</div>
+							</footer></div><!-- #page -->
+
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/javascript" src="https://completebalancereiki.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0" id="jquery-blockui-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/completebalancereiki.com\/cart-2\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0" id="wc-add-to-cart-js"></script>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0" id="js-cookie-js"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","qty_pm":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0" id="woocommerce-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_bf159f88cfe0a330c0569b21607526a8","fragment_name":"wc_fragments_bf159f88cfe0a330c0569b21607526a8","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0" id="wc-cart-fragments-js"></script>
+<script type="text/javascript" id="customify-themejs-js-extra">
+/* <![CDATA[ */
+var Customify_JS = {"is_rtl":"","css_media_queries":{"all":"%s","desktop":"%s","tablet":"@media screen and (max-width: 1024px) { %s }","mobile":"@media screen and (max-width: 568px) { %s }"},"sidebar_menu_no_duplicator":"1","wc_open_cart":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-content/themes/customify/assets/js/theme.min.js?ver=0.3.7" id="customify-themejs-js"></script><div id="header-menu-sidebar" class="header-menu-sidebar menu-sidebar-panel dark-mode"><div id="header-menu-sidebar-bg" class="header-menu-sidebar-bg"><div id="header-menu-sidebar-inner" class="header-menu-sidebar-inner"><div class="builder-item-sidebar mobile-item--html"><div class="item--inner" data-item-id="html" data-section="header_html" style="transition-delay: 0.2s;"><div class="builder-header-html-item item--html"><p>We are offering FREE reiki distant healing for the first 100 people who sign up!</p>
+</div></div></div><div class="builder-item-sidebar mobile-item--social-icons"><div class="item--inner" data-item-id="social-icons" data-section="header_social_icons" style="transition-delay: 0.4s;"><ul class="header-social-icons customify-builder-social-icons color-default"><li><a class="social-icon-facebook shape-square" rel="nofollow noopener" target="_blank" href="#"><i class="icon fa fa-facebook" title="Facebook"></i></a></li></ul></div></div><div class="builder-item-sidebar mobile-item--primary-menu mobile-item--menu "><div class="item--inner" data-item-id="primary-menu" data-section="header_menu_primary" style="transition-delay: 0.6s;"><nav id="site-navigation-sidebar-mobile" class="site-navigation primary-menu primary-menu-sidebar nav-menu-mobile primary-menu-mobile style-plain nav-menu-overlay"><ul id="menu-main-menu" class="primary-menu-ul menu nav-menu"><li id="menu-item--sidebar-mobile-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10 current_page_item menu-item-22"><a href="https://completebalancereiki.com/" aria-current="page"><span class="link-before">Home</span></a></li>
+<li id="menu-item--sidebar-mobile-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://completebalancereiki.com/services/"><span class="link-before">Services</span></a></li>
+<li id="menu-item--sidebar-mobile-1935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1935"><a href="https://completebalancereiki.com/store/"><span class="link-before">Store</span></a></li>
+<li id="menu-item--sidebar-mobile-690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-690"><a href="https://completebalancereiki.com/our-story/"><span class="link-before">Our Story</span></a></li>
+<li id="menu-item--sidebar-mobile-1004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1004"><a href="https://completebalancereiki.com/history-of-reiki/"><span class="link-before">History of Reiki</span></a></li>
+<li id="menu-item--sidebar-mobile-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="https://completebalancereiki.com/faqs/"><span class="link-before">FAQ’s</span></a></li>
+</ul></nav></div></div></div></div></div>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-content/themes/customify/assets/js/compatibility/woocommerce.min.js?ver=0.3.7" id="plugin-woocommerce-js"></script>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.7.1" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.7.1" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/completebalancereiki.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":10,"title":"Complete%20Balance%20Reiki","excerpt":"","featuredImage":false}};
+</script>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.1" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
+<script type="text/javascript" id="wpforms-elementor-js-extra">
+/* <![CDATA[ */
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://completebalancereiki.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.6" id="wpforms-elementor-js"></script>
+
+
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl489473'},{'dcenter':'p3'},{'cp_id':'8566429'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src="https://img1.wsimg.com/traffic-assets/js/tccl.min.js"></script>
+</body>
