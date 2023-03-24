@@ -7,10 +7,12 @@
     <meta name="robots" content="max-image-preview:large">
     <body style="background-color:black;">
       
-      <!----------Head---->
+      <!----------Header---->
       <div class="headerBG">
 <img src="./Bambo Background.jpeg" alt="">
       <img src="https://atomedia47.github.io/web/Bambo Background.jpeg" alt="bgheader">
+      
+      <!----------Menu---->
       
       <div class="topnav">
   <a class="active" href="#home">Home</a>
@@ -24,7 +26,7 @@
         
         <iframe src="https://atomedia47.github.io/web/CBR-Coin.mp4"></iframe>
         
-      
+   <body>   
       <div class="Distant100">
       <img src="./Distantsignup100.png" alt="">
       <img src="https://atomedia47.github.io/web/Distantsignup100.png" alt="doante100onl1y">
@@ -63,9 +65,9 @@
       What is Reiki?  How Can Reiki Help Me? How Does Distant Reiki Healing Work?
     </div>
 </div>
+    </body>
     
-    
-
+<!-----------Footer---->
     <footer>
       
       <div class="Homelefttext">
