@@ -1,5 +1,6 @@
 <html>
   <head>
+    <meta margin="width" margin="length">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=10.0, user-scalable=yes">
     <link rel="profile" href="https://gmpg.org/xfn/11">
@@ -9,23 +10,35 @@
       
       <!----------Header---->
       <div class="headerBG">
-<img src="./Bambo Background.jpeg" alt="">
-      <img src="https://atomedia47.github.io/web/Bambo Background.jpeg" alt="bgheader">
-      
+        <BG> 
+<img src="./Bambo Background.jpeg" 
+     alt="">
+      <img src="https://atomedia47.github.io/web/Bambo Background.jpeg" alt="bgheader"
+           width="100%"
+           length="absolute">
+        </BG>
       <!----------Menu---->
-      
       <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#services">Services</a>
-  <a href="#store">Store</a>
-  <a href="#ourstory">Our Story</a>
-  <a href="#historyofreiki">History of Reiki</a>
-  <a href="#faq">FAQ's</a>
+       <ul>
+        <a class="active" href="#home">Home</a>
+        <a href="#services">Services</a>
+        <a href="#store">Store</a>
+        <a href="#ourstory">Our Story</a>
+        <a href="#historyofreiki">History of Reiki</a>
+        <a href="#faq">FAQ's</a>
+      </ul>
 </div>
-        <iframe src="https://atomedia47.github.io/web/Topbarvideo.mp4" type="video/mp4"></iframe>
+      <div class="topbarvid">
+      <iframe loop width="1150" height"800" src="https://atomedia47.github.io/web/Topbarvideo.mp4" type="video/mp4"><video width="1150" height="800" controls>
+  <source autoplay  src="https://atomedia47.github.io/web/Topbarvideo.mp4" type="mp4">
+</video> </iframe></div>
+      
+        <div class="coinflip">
+          <iframe width="1150" height="800" src="https://atomedia47.github.io/web/CBR-Coin.mp4"> </iframe></div>
         
-        <iframe src="https://atomedia47.github.io/web/CBR-Coin.mp4"></iframe>
-        
+      
+      
+      
         </head>
    <body>   
       <div class="Distant100">
@@ -102,6 +115,7 @@ Reiki works by removing all the blocks we face in life by channeling Life Force 
   <fot href="#faq">FAQ's</fot>
         </div>
         </footer>   
-    
+      </html>
     <!--------------links to all------>
+    
     
