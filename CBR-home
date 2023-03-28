@@ -16,7 +16,7 @@
       <img src="https://atomedia47.github.io/web/Bambo Background.jpeg" alt="bgheader"
            width="100%"
            length="absolute">
-        </BG>
+        </BG></div>
       <!----------Menu---->
       <div class="topnav">
        <ul>
@@ -28,19 +28,21 @@
         <a href="#faq">FAQ's</a>
       </ul>
 </div>
-      <div class="topbarvid">
-      <iframe loop width="1150" height"800" src="https://atomedia47.github.io/web/Topbarvideo.mp4" type="video/mp4"><video width="1150" height="800" controls>
-  <source autoplay  src="https://atomedia47.github.io/web/Topbarvideo.mp4" type="mp4">
-</video> </iframe></div>
-      
-        <div class="coinflip">
-          <iframe width="1150" height="800" src="https://atomedia47.github.io/web/CBR-Coin.mp4"> </iframe></div>
+    
         
-      
+     
       
       
         </head>
    <body>   
+      
+      
+      </body>
+    <div class="B-signupnow">
+    <img src="./Signupnow.png" alt="">
+      <img src="https://atomedia47.github.io/web/Signupnow.png" alt="Signupbutton">
+    </div>
+    
       <div class="Distant100">
       <img src="./Distantsignup100.png" alt="">
       <img src="https://atomedia47.github.io/web/Distantsignup100.png" alt="doante100onl1y">
@@ -51,18 +53,21 @@
       <img src="https://atomedia47.github.io/web/Logobanner.png" alt="Bannerlogobutton">
       </div>
         
+    <div class="topbarvid">
+      <iframe loop width="1150" height"800" src="https://atomedia47.github.io/web/Topbarvideo.mp4" type="video/mp4">
         
+        <video controls loop autoplay width="1150" height="800">
+  <video  src="https://atomedia47.github.io/web/Topbarvideo.mp4" type="video/mp4">
+</video> </iframe></div>
+      
+        <div class="coinflip">
+          <iframe width="1150" height="800" src="https://atomedia47.github.io/web/CBR-Coin.mp4"> </iframe></div>    
+    
       <div class="homebodyBG">
     <img src="./12122.jpeg" alt="">
       <img src="https://atomedia47.github.io/web/12122.jpeg" alt="homebodyBG">
     </div>
       
-      </body>
-    <div class="B-signupnow">
-    <img src="./Signupnow.png" alt="">
-      <img src="https://atomedia47.github.io/web/Signupnow.png" alt="Signupbutton">
-    </div>
-    
       <div class="B-donate100">
 <img src="./Freedistantseshbutton.png" alt="">
       <img src="https://atomedia47.github.io/web/Freedistantseshbutton.png" alt="B-donate100">
@@ -79,12 +84,8 @@
       What is Reiki?  How Can Reiki Help Me? How Does Distant Reiki Healing Work?
     </div>
 </div>
-    </body>
     
-<!-----------Footer---->
-    <footer>
-      
-      <div class="Homelefttext">
+    <div class="Homelefttext">
       Reiki is the Universal Life Force which connects and runs through all things in the Universe. Also known as Energy, Chi, Prana which gives life to all things.
 Reiki can be tapped into anytime, anywhere and anyplace. Giving us the ability to heal or transcend our Energy, to remove blocks in the Energy Center of know as the Charka’s.
 Traditional Reiki healing is performed with hands on, using a series of hand positions over the Energy Centers of the body. Reiki can also be performed distantly reaching anyone ready and open to receive it.
@@ -101,6 +102,13 @@ Reiki can help you heal from illness and emotional trauma, as well as provide re
 Reiki works by removing all the blocks we face in life by channeling Life Force Energy with the Intention of doing what is in the best interest of the recipient by clearing the Energy Centers.
     </p>
   </div>
+    
+    </body>
+    
+<!-----------Footer---->
+    <footer>
+      
+      
       
       <div class="B-spacebuda">
         <img src="./Spacebuda.png" alt="">
@@ -117,5 +125,4 @@ Reiki works by removing all the blocks we face in life by channeling Life Force 
         </footer>   
       </html>
     <!--------------links to all------>
-    
     
